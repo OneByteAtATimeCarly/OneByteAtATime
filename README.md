@@ -1,4 +1,7 @@
 # OneByteAtATime
+
+Main Channel: https://www.youtube.com/c/OneByteAtATime7
+
 General code repository for OneByteAtATime YT channel
 We each live on our own specific and finite island of knowledge, surrounded by an infinite sea of ignorance. 
 As our island of knowledge grows, so does the shore of our ignorance (John Archibald Wheeler). 
